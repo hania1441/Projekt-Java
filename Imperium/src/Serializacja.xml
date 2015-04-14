@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.7.0_51" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="imperium.Wyniki">
+    <void property="czasRozgrywki">
+     <int>393</int>
+    </void>
+    <void property="idWyniku">
+     <int>57</int>
+    </void>
+    <void property="imie">
+     <string>Rafał</string>
+    </void>
+    <void property="liczbaPokonanychPlemion">
+     <int>22</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="imperium.Wyniki">
+    <void property="czasRozgrywki">
+     <int>393</int>
+    </void>
+    <void property="idWyniku">
+     <int>57</int>
+    </void>
+    <void property="imie">
+     <string>Rafał</string>
+    </void>
+    <void property="liczbaPokonanychPlemion">
+     <int>22</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="imperium.Wyniki">
+    <void property="czasRozgrywki">
+     <int>272</int>
+    </void>
+    <void property="idWyniku">
+     <int>46</int>
+    </void>
+    <void property="imie">
+     <string>Karol</string>
+    </void>
+    <void property="liczbaPokonanychPlemion">
+     <int>4</int>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="imperium.Wyniki">
+    <void property="czasRozgrywki">
+     <int>248</int>
+    </void>
+    <void property="idWyniku">
+     <int>44</int>
+    </void>
+    <void property="imie">
+     <string>Patrycja</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="imperium.Wyniki">
+    <void property="czasRozgrywki">
+     <int>233</int>
+    </void>
+    <void property="idWyniku">
+     <int>43</int>
+    </void>
+    <void property="imie">
+     <string>Maciej</string>
+    </void>
+    <void property="liczbaPokonanychPlemion">
+     <int>1</int>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
